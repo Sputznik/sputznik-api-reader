@@ -1,0 +1,31 @@
+/* GRID3 */
+.articles-three-grid .orbit-thumbnail-bg {
+  min-height: 270px;
+}
+
+.articles-three-grid .post-desc {
+  color: #333333;
+}
+
+.articles-three-grid .meta {
+  display: block;
+  margin: 10px 0;
+  font-weight: 500;
+}
+
+.articles-three-grid .post-excerpt * {
+  color: #808080;
+  display: inline;
+  font-weight: 500;
+}
+
+.articles-three-grid .meta,
+.articles-three-grid .post-excerpt {
+  font-size: 18px;
+  line-height: 26px;
+}
+
+.articles-three-grid .read-more {
+  font-weight: 700;
+  text-decoration: none;
+}
